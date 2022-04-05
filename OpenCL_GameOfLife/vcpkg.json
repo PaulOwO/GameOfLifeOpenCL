@@ -1,0 +1,7 @@
+{
+	"name": "opencl-crash-course",
+	"version-string": "1.0",
+	"dependencies": [
+    "opencl"
+	]
+}
